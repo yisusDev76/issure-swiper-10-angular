@@ -32,6 +32,7 @@ export class Tab1Page {
 
   async start() {
     console.log("go to login");
+    alert("swiper 9 works!")
   }
 
 }
